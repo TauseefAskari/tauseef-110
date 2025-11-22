@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tauseef Askari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on a Project **Rapid Mart Manager**
-
 - 🌱 I’m currently learning **Java Full Stack Development**
 
 - 👯 I’m looking to collaborate with **Java Developers**
